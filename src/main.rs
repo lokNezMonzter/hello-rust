@@ -1,4 +1,4 @@
 fn main() {
     println!("Hello World!");
-    println!("A new line was added!")
+    println!("A new line was added!");
 }
